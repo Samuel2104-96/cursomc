@@ -38,7 +38,7 @@ samue@DESKTOP-GS4IT4J MINGW64 ~/Desktop/SpringBoot/Cursomc (master)
 $ git add .
 warning: LF will be replaced by CRLF in .gitignore.
 The file will have its original line endings in your working directory
-warning: LF will be replaced by CRLF in .mvn/wrapper/MavenWrapperDownloader.java.
+warning: LF will be replaced by CRLF ingit lo .mvn/wrapper/MavenWrapperDownloader.java.
 The file will have its original line endings in your working directory
 warning: LF will be replaced by CRLF in .mvn/wrapper/maven-wrapper.properties.
 The file will have its original line endings in your working directory
