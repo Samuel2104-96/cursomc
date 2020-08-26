@@ -2481,3 +2481,66 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-08-26 17:04:00,607 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-26 17:04:00,609 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-26 17:04:00,610 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:10:03,178 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:10:03,179 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:10:03,181 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:10:03,184 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:10:03,185 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:28:24,110 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:28:24,114 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:28:24,116 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:28:24,118 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:28:24,118 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:28:34,579 [Worker-29: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:28:34,580 [Worker-29: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:28:34,582 [Worker-29: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:28:34,583 [Worker-29: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:28:34,583 [Worker-29: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:41:13,500 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:41:13,502 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:41:13,503 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:41:13,505 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:41:13,506 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:43:11,057 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:43:11,060 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:43:11,062 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:43:11,066 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:43:11,066 [Worker-35: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:48:16,758 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:48:16,759 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:48:16,760 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:48:16,762 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:48:16,762 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:50:55,197 [Worker-40: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:50:55,198 [Worker-40: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:50:55,200 [Worker-40: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:50:55,202 [Worker-40: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:50:55,202 [Worker-40: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 17:53:01,488 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:53:01,489 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 17:53:01,491 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 17:53:01,493 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 17:53:01,493 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 18:07:06,909 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:07:06,910 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 18:07:06,912 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 18:07:06,914 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:07:06,914 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 18:10:47,580 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:10:47,581 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 18:10:47,583 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 18:10:47,585 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:10:47,585 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 18:11:17,766 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:11:17,767 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 18:11:17,768 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 18:11:17,770 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:11:17,770 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 18:12:10,127 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:12:10,128 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 18:12:10,129 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-26 18:12:10,132 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:12:10,132 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\samue\Desktop\SpringBoot\Cursomc\src\test\resources
+2020-08-26 18:15:59,292 [Worker-48: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-26 18:15:59,293 [Worker-48: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-26 18:15:59,295 [Worker-48: Launching Cursomc - CursomcApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
