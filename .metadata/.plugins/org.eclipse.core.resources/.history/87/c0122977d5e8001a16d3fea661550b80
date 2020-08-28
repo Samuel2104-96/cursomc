@@ -1,0 +1,5 @@
+package com.project.resources.exception;
+
+public class ResourceExceptionHandler {
+
+}

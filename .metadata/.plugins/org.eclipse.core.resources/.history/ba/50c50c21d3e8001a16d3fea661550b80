@@ -1,0 +1,5 @@
+package com.project.services.exception;
+
+public class ObjectNotFoundException {
+
+}
